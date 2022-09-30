@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Ingeniería de Software</title>
+</head>
+
+<body>
+    <h1>Utilización del Git y GitHub</h1>
+
+    <p>
+     Es un software de control de versiones diseñado por Linus Torvalds,<br/>
+     pensando en la eficiencia y la confiabilidad del mantenimiento de<br />
+     versiones de aplicaciones cuando estas tienen un gran número de <br />
+     de código fuente.
+</p>
+    <p>
+        <h>GitHub</h> es una forma para alojar proyectos utilizando el sistema de <br/>
+        control de versiones Git. GitHub sería la red social de código para los <br/>
+        programadores, tu propio curriculum vitae.
+    </p>
+
+<<<<<<< HEAD
+
+
+    <img src="https://dimarkonline.com/wp-content/uploads/2017/03/programador_web.jpg" style="width: 400px;" />
+<body background="https://img.freepik.com/foto-gratis/fondo-borroso-oscuro-abstracto-color-textura-degradado-suave-patron-sitio-web-brillante-encabezado-banner-o-imagen-arte-grafico-barra-lateral_1258-85517.jpg?w=360">
+
+
+    <p>
+
+    <h1 style="color:rgb(231, 25, 53)"> FASES DE UN PROYECTO EN GIT</h1>
+    <h2 style="color:#da1932"> MODIFICADO, PREPARADO Y CONFIRMADO</h2>
+    <img src ="https://miro.medium.com/max/915/0*nr4HYRXH5lDpUU9t.png">
+    <h3 style="color:#da1932"> INGENIERIA DE SOFTWARE II</h3>
+
+    
+=======
+    <img src="https://dimarkonline.com/wp-content/uploads/2017/03/programador_web.jpg" style="width: 350px;" />
+<body background="https://img.freepik.com/foto-gratis/fondo-borroso-oscuro-abstracto-color-textura-degradado-suave-patron-sitio-web-brillante-encabezado-banner-o-imagen-arte-grafico-barra-lateral_1258-85517.jpg?w=360">
+
+  
+        
+    
+
+>>>>>>> bf613b0dabcf8ac62ebfdb3020bea59d49c23837
+</body>
+</html>
